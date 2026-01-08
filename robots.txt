@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://insurancebillpay.github.io/travelers-insurance-bill-pay/sitemap.xml
